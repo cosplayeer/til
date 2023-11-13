@@ -15,4 +15,4 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - <u>[linux](https://github.com/cosplayeer/til#markdown)</u>
 
 ### [Linux](https://github.com/cosplayeer/til/tree/main#linux)
-- <u>[Check Ubuntu Version](https://github.com/cosplayeer/til/main/linux/check-ubuntu-version.md)
+- <u>[Check Ubuntu Version](https://github.com/cosplayeer/til/blob/main/linux/check-ubuntu-version.md)
