@@ -28,4 +28,4 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - <u>[Task Spooler](https://github.com/cosplayeer/til/blob/main/linux/task-spooler.md)
 
 ## [Chrome](https://github.com/cosplayeer/til#chrome)
-- [chrome书签同步不及时，手动强制同步](https://github.com/cosplayeer/til/blob/main/linux/chrome书签同步不及时.md)
+- [chrome书签同步不及时，手动强制同步](https://github.com/cosplayeer/til/blob/main/chrome/chrome书签同步不及时.md)
