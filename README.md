@@ -34,4 +34,4 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - [chrome书签同步不及时，手动强制同步](https://github.com/cosplayeer/til/blob/main/chrome/chrome书签同步不及时.md)
 
 ### [Finance](https://github.com/cosplayeer/til#finance)<font size=1>🔗</font>
-- [期货与现货的不同](https://github.com/cosplayeer/til/blob/main/chrome/期货与现货的不同.md)
+- [期货与现货的不同](https://github.com/cosplayeer/til/blob/main/finance/期货与现货的不同.md)
