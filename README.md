@@ -15,6 +15,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - <u>[数值模型](https://github.com/cosplayeer/til#model)</u>
 - <u>[Linux](https://github.com/cosplayeer/til#linux)</u>
 - <u>[Chrome](https://github.com/cosplayeer/til#chrome)</u>
+- <u>[Finance](https://github.com/cosplayeer/til#finance)</u>
 
 ### [Git](https://github.com/cosplayeer/til/tree/main#git)<font size=1>🔗</font>
 - [git重新定义远程库](https://github.com/cosplayeer/til/blob/main/git/git重新定义远程库.md)
@@ -31,3 +32,6 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 
 ### [Chrome](https://github.com/cosplayeer/til#chrome)<font size=1>🔗</font>
 - [chrome书签同步不及时，手动强制同步](https://github.com/cosplayeer/til/blob/main/chrome/chrome书签同步不及时.md)
+
+### [Finance](https://github.com/cosplayeer/til#finance)<font size=1>🔗</font>
+- [期货与现货的不同](https://github.com/cosplayeer/til/blob/main/chrome/期货与现货的不同.md)
