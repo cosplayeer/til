@@ -16,7 +16,8 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - <u>[Linux](https://github.com/cosplayeer/til#linux)</u>
 - <u>[Chrome](https://github.com/cosplayeer/til#chrome)</u>
 - <u>[Finance](https://github.com/cosplayeer/til#finance)</u>
-
+- <u>[Wind Software](https://github.com/cosplayeer/til#wind)</u>
+- 
 ### [Git](https://github.com/cosplayeer/til/tree/main#git)<font size=1>🔗</font>
 - [git重新定义远程库](https://github.com/cosplayeer/til/blob/main/git/git重新定义远程库.md)
   
@@ -35,3 +36,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 
 ### [Finance](https://github.com/cosplayeer/til#finance)<font size=1>🔗</font>
 - [期货与现货的不同](https://github.com/cosplayeer/til/blob/main/finance/期货与现货的不同.md)
+
+### [Wind Software](https://github.com/cosplayeer/til#wind)<font size=1>🔗</font>
+- [WaspTurbineEditor](https://github.com/cosplayeer/til/blob/main/wind/WaspTurbineEditor.md)
+- [风机数据的一种格式](https://github.com/cosplayeer/til/blob/main/wind/风机数据的一种格式.md)
