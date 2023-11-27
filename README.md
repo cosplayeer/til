@@ -11,6 +11,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 
 - <u>[Git](https://github.com/cosplayeer/til#git)</u>
 - <u>[Markdown](https://github.com/cosplayeer/til#markdown)</u>
+- <u>[编辑器](https://github.com/cosplayeer/til#editor)</u>
 - <u>[Python](https://github.com/cosplayeer/til#python)</u>
 - <u>[数值模型](https://github.com/cosplayeer/til#model)</u>
 - <u>[Linux](https://github.com/cosplayeer/til#linux)</u>
@@ -20,8 +21,12 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - 
 ### [Git](https://github.com/cosplayeer/til/tree/main#git)<font size=1>🔗</font>
 - [git重新定义远程库](https://github.com/cosplayeer/til/blob/main/git/git重新定义远程库.md)
+- [常见分支命名](https://github.com/cosplayeer/til/blob/main/git/常见分支命名.md)
   
 ### [Markdown](https://github.com/cosplayeer/til/tree/main#markdown)<font size=1>🔗</font>
+
+### [编辑器](https://github.com/cosplayeer/til/tree/main#editor)<font size=1>🔗</font>
+- [vscode配置](https://github.com/cosplayeer/til/blob/main/editor/vscode配置.md)
 
 ### [Python](https://github.com/cosplayeer/til/tree/main#python)<font size=1>🔗</font>
 
