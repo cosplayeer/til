@@ -18,7 +18,8 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - <u>[Chrome](https://github.com/cosplayeer/til#chrome)</u>
 - <u>[Finance](https://github.com/cosplayeer/til#finance)</u>
 - <u>[Wind Software](https://github.com/cosplayeer/til#wind)</u>
-- 
+- <u>[Vedio Software](https://github.com/cosplayeer/til#vedio)</u>
+
 ### [Git](https://github.com/cosplayeer/til/tree/main#git)<font size=1>🔗</font>
 - [git重新定义远程库](https://github.com/cosplayeer/til/blob/main/git/git重新定义远程库.md)
 - [常见分支命名](https://github.com/cosplayeer/til/blob/main/git/常见分支命名.md)
@@ -45,3 +46,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 ### [Wind Software](https://github.com/cosplayeer/til#wind)<font size=1>🔗</font>
 - [WaspTurbineEditor](https://github.com/cosplayeer/til/blob/main/wind/WaspTurbineEditor.md)
 - [风机数据的一种格式](https://github.com/cosplayeer/til/blob/main/wind/风机数据的一种格式.md)
+
+
+### [Vedio Software](https://github.com/cosplayeer/til#vedio)<font size=1>🔗</font>
+- [录制视频的两个软件](https://github.com/cosplayeer/til/blob/main/vedio/录制视频的两个软件.md)
