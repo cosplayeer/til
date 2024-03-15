@@ -23,6 +23,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 ### [Git](https://github.com/cosplayeer/til/tree/main#git)<font size=1>🔗</font>
 - [git重新定义远程库](https://github.com/cosplayeer/til/blob/main/git/git重新定义远程库.md)
 - [常见分支命名](https://github.com/cosplayeer/til/blob/main/git/常见分支命名.md)
+- [设置公钥登录](https://github.com/cosplayeer/til/blob/main/git/设置公钥登录.md)
   
 ### [Markdown](https://github.com/cosplayeer/til/tree/main#markdown)<font size=1>🔗</font>
 
