@@ -12,13 +12,14 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - <u>[Git](https://github.com/cosplayeer/til#git)</u>
 - <u>[Markdown](https://github.com/cosplayeer/til#markdown)</u>
 - <u>[编辑器](https://github.com/cosplayeer/til#editor)</u>
-- <u>[Python](https://github.com/cosplayeer/til#python)</u>
+- <u>[编程技术](https://github.com/cosplayeer/til#python)</u>
 - <u>[数值模型](https://github.com/cosplayeer/til#model)</u>
 - <u>[Linux](https://github.com/cosplayeer/til#linux)</u>
 - <u>[Chrome](https://github.com/cosplayeer/til#chrome)</u>
 - <u>[Finance](https://github.com/cosplayeer/til#finance)</u>
 - <u>[Wind Software](https://github.com/cosplayeer/til#wind)</u>
 - <u>[Vedio Software](https://github.com/cosplayeer/til#vedio)</u>
+- <u>[随笔](https://github.com/cosplayeer/til#suibi)</u>
 
 ### [Git](https://github.com/cosplayeer/til/tree/main#git)<font size=1>🔗</font>
 - [git重新定义远程库](https://github.com/cosplayeer/til/blob/main/git/git重新定义远程库.md)
@@ -30,7 +31,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 ### [编辑器](https://github.com/cosplayeer/til/tree/main#editor)<font size=1>🔗</font>
 - [vscode配置](https://github.com/cosplayeer/til/blob/main/editor/vscode配置.md)
 
-### [Python](https://github.com/cosplayeer/til/tree/main#python)<font size=1>🔗</font>
+### [编程技术](https://github.com/cosplayeer/til/tree/main#python)<font size=1>🔗</font>
 - <u>[Check Lacked Wrfout](https://github.com/cosplayeer/til/blob/main/linux/check-lack-wrfout.md)
 ### [数值模型](https://github.com/cosplayeer/til/tree/main#model)<font size=1>🔗</font>
 
@@ -51,3 +52,6 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 
 ### [Vedio Software](https://github.com/cosplayeer/til#vedio)<font size=1>🔗</font>
 - [录制视频的两个软件](https://github.com/cosplayeer/til/blob/main/vedio/录制视频的两个软件.md)
+
+### [随笔](https://github.com/cosplayeer/til#suibi)<font size=1>🔗</font>
+- [程序员总会遇到一个瓶颈期，该怎么解决？](https://github.com/cosplayeer/til/blob/main/suibi/精神鸡汤.md)
