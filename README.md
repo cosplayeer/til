@@ -31,7 +31,7 @@ Inspired by <u>[this website](https://github.com/jbranchaud/til)</u>
 - [vscode配置](https://github.com/cosplayeer/til/blob/main/editor/vscode配置.md)
 
 ### [Python](https://github.com/cosplayeer/til/tree/main#python)<font size=1>🔗</font>
-
+- <u>[Check Lacked Wrfout](https://github.com/cosplayeer/til/blob/main/linux/check-lack-wrfout.md)
 ### [数值模型](https://github.com/cosplayeer/til/tree/main#model)<font size=1>🔗</font>
 
 ### [Linux](https://github.com/cosplayeer/til/tree/main#linux)<font size=1>🔗</font>
